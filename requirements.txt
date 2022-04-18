@@ -1,0 +1,5 @@
+numpy
+scikit_learn
+tensorboardX
+torch
+tqdm
