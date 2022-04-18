@@ -4,7 +4,7 @@
 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch，开箱即用。
 
 ## 写在前面
-若要从零开始，安装 Python 环境，安装项目依赖包，训练第一个模型，请[移步]();
+从零开始，安装 Python 环境，安装项目依赖包，训练第一个模型，请[移步](https://github.com/rwei1218/Chinese-Text-Classification-Pytorch/blob/master/rweiREADME.md);
 
 ## 介绍
 模型介绍、数据流动过程：[我的博客](https://zhuanlan.zhihu.com/p/73176084)  
